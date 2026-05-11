@@ -14,7 +14,14 @@ Utilizei nesse projeto o gerenciador UV. Já tinha visto sobre ele em alguns pos
 ## 📝 Testar API
 Nunca tinha usado FastAPI, então foi uma boa oportunidade para dar um teste. 
 * Acesse o [swagger](http://127.0.0.1:8000/docs) (:8000/docs) da API para fazer os testes.
+* Na aba default, vão estar listados os endpoints solicitados.
+* Após expandir um endpoint, clique em "Try it out" para testar.
 
-## 🤫🤔🗿 Autor - Pedro C.
+## 👀 Criatividades
+- ✅ Validação com pydantic (já que o FastAPI usa, aproveitei para esse caso)
+- ✅ Endpoint para listar registros com query string
+- ❌ Dividir o código em pastas
+
+## 🤔🤫🗿 Autor - Pedro C.
 * [LinkedIn](https://www.linkedin.com/in/pedro-costa-developer/)
 * [GitHub](https://github.com/phmc99)
