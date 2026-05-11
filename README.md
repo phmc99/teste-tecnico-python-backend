@@ -18,9 +18,9 @@ Nunca tinha usado FastAPI, então foi uma boa oportunidade para dar um teste.
 * Após expandir um endpoint, clique em "Try it out" para testar.
 
 ## 👀 Explicações
-- Fiz a validação com pydantic (já que o FastAPI usa, aproveitei para esse caso)
-- Endpoint para listar registros com query string, para ter algo a mais
-- Não dividi o código em pastas, pois achei o código pequeno. Criar pastas só daria mais trabalho para revisar.
+- Fiz a validação com pydantic (já que o FastAPI usa, aproveitei para esse caso).
+- Endpoint para listar registros com query string, para ter algo a mais.
+- Separação por pastas para uma melhor organização do projeto.
 - Procurei deixar o código o mais descritivo possível para não depender de comentários para explicar o que esta acontecendo em cada momento.
 
 ## 🤔🤫🗿 Autor - Pedro C.
